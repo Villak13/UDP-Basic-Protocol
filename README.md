@@ -25,14 +25,9 @@ A lightweight, cross-platform mobile and desktop application built with **.NET M
     * .NET 8.0 or 9.0 SDK.
 2.  **Clone & Open:**
     ```bash
-    git clone [https://github.com/Villak13/MAUI.git](https://github.com/Villak13/MAUI.git)
-    cd MAUI
+    git clone https://github.com/Villak13/UDP-Basic-Protocol.git
     ```
-3.  **Switch to the Code Branch:**
-    ```bash
-    git checkout udp-basic-networking
-    ```
-4.  **Launch:**
+3.  **Launch:**
     Open the solution and press **F5** to run on your preferred emulator or local machine.
 
 ---
